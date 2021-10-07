@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+background: url("https://t4.ftcdn.net/jpg/04/50/61/91/360_F_450619110_J66orqDJvO4qNyVZOszJEmQHJtWyOU6N.webp") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0 5%;
+}
